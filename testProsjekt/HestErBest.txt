@@ -1,6 +1,3 @@
 Hest er best på maten...
-<<<<<<< HEAD
-Det er sant. har jeg hørt.
-=======
 Det er sant. Vet jeg.
->>>>>>> origin/master
+
